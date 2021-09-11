@@ -38,4 +38,4 @@ The analysis of the election data shows that:
 The challenge was testing a basic knowledge of coding, all the while showing the power of python. It wasn't too difficult of an analysis and the code wasn't highly complex. 
 
 The output generated from those is as follows: 
-<img src="Resources/Analysis_Output.png" width="300" height="550">
+<img src="Resources/Analysis Output.png" width="300" height="550">
